@@ -1,0 +1,132 @@
+.navbar{
+    height: 80px;
+}
+
+.navbar .navbar-brand img {
+    height: 75px;
+}
+
+.navbar .nav1{
+    margin-right: 15px;
+    color: #000000;
+    text-decoration: none;
+    transition: .1s;
+}
+
+.navbar .nav1:hover{
+    color: #ff8c00;
+}
+
+.search-i{
+    color: #000000;
+}
+
+.search-i:hover{
+    color: #000000;
+}
+
+.btn-create{
+    border: 1px solid #bdbdbd;
+    border-radius: 25px;
+    padding: 6px 25px;
+    font-size: 14px;
+}
+
+.btn-create:hover{
+    border: 1px solid #a5a5a5;
+}
+
+.btn-login{
+    background-color: #ff8c00;
+    border-radius: 25px;
+    padding: 6px 25px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.btn-login:hover{
+    background-color: #e67e00;
+}
+
+.container-slogan {
+    background: linear-gradient(to top, #dfdfdf 5%, #ffffff);
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.container-slogan img{
+    height: 230px;
+}
+
+.container-slogan h1{
+    font-weight: 800;
+}
+
+#slogan-text {
+    font-size: 20px;
+}
+
+.container-slogan svg{
+    height: 24px;
+}
+
+.btn-create-wal{
+    background: radial-gradient(#ff9514, #ff8c00);
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 14px 40px;
+}
+
+.btn-create-wal:hover{
+    background: radial-gradient(#ff8c00, #f18500);
+    color: #ffffff;
+}
+
+.card {
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container-card{
+    width: 1200px;
+}
+
+.card-1 {
+    top: -20px;
+}
+
+.btn-add-card{
+    border: 1px solid #bdbdbd;
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-size: 16px;
+    color: #000000;
+}
+
+.btn-add-card:hover{
+    border: 1px solid #a5a5a5;
+}
+
+.container-card h4{
+    font-weight: 900;
+    font-size: 28px;
+}
+
+.img-brands{
+    height: 225px;
+}
+
+.footer-container{
+    width: 1200px;
+}
+
+.footer-text{
+    color: #6b6b6b;
+    font-size: 14px;
+}
